@@ -1,6 +1,6 @@
 ---
 title: Site Search
-layout: search
+layout: search-algolia
 permalink: /search/
 ---
 
